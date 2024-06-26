@@ -34,7 +34,7 @@
 <!-- Guestbook -->
 <p align="center">
   <a href="[https://gist.github.com/traumverloren/<HASH>](https://gist.github.com/harshittiwariii/a4f04f5e1c8e3e9ddc75de6b01a7da21)">
-    <img src="<YOUR IMAGE PATH GOES HERE!>" alt="Click here to sign my guestbook!">
+    <img src="[<YOUR IMAGE PATH GOES HERE!>" alt="Click here to sign my guestbook](https://github.com/harshittiwariii/harshittiwariii/blob/main/images/guestbook.jpeg)!">
   </a>
 </p>
 <!-- /Guestbook -->
